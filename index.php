@@ -13,7 +13,7 @@ $rs = $db->query("SELECT * FROM products");
 
 	<table border="1">
 		<tr>
-			<th>Id</th>
+			<th>ID</th>
 			<th>Product Name</th>
 			<th>Price</th>
 			<th>Action</th>
